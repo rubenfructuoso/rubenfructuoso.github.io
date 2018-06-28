@@ -4,5 +4,5 @@ $(function(){
     $(this).css('background','red');
   }
   );
-}
+});
   );
