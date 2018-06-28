@@ -1,9 +1,8 @@
 $(document).ready(function(){
   alert('gopfetami!');
-  $('body').toggle(function(){
-    $(this).css('background','red');
-    $('h1').css('color','blue');
-  }
+  $('body').toggle(
+    function(){$('body').css('background','red');},
+    function(){$('body').css('background','white');},
   );
 }
 );
