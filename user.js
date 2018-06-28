@@ -1,4 +1,4 @@
-$(document).ready(function(){
+$(function(){
   alert('gopfetami!');
   $('body').on('click', function(){
     $(this).css('background','red');
