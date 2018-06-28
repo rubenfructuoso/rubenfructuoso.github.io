@@ -1,1 +1,4 @@
-alert('gopfetami!');
+$(function(){
+  alert('gopfetami!');
+}
+  );
