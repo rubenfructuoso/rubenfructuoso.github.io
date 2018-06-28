@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-$('body').toggle(
-  function(){$('body').css('background','red');},
-  function(){$('body').css('background','white');},
-=======
 $(document).ready(function(){
   alert('gopfetami!');
   $('body').click(function(){
@@ -10,5 +5,4 @@ $(document).ready(function(){
   }
   );
 }
->>>>>>> parent of cb09d0a... finally it funcitons well oder
 );
