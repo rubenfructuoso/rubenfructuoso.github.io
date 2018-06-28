@@ -1,6 +1,6 @@
 $(document).ready(function(){
   alert('gopfetami!');
-  $('body').click(function(){
+  $('body').toggle(function(){
     $(this).css('background','red');
     $('h1').css('color','blue');
   }
