@@ -1,0 +1,19 @@
+{
+  "name": "rubenfructuoso.github.io",
+  "version": "0.0.1",
+  "description": "",
+  "main": "user.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubenfructuoso/rubenfructuoso.github.io.git"
+  },
+  "author": "Rubén Fructuoso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubenfructuoso/rubenfructuoso.github.io/issues"
+  },
+  "homepage": "https://github.com/rubenfructuoso/rubenfructuoso.github.io#readme"
+}
